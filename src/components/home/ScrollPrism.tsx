@@ -145,7 +145,7 @@ export function ScrollPrism() {
             <div className="w-full relative aspect-video overflow-hidden rounded-sm shadow-[0_0_50px_rgba(0,0,0,0.5)] border border-white/10 bg-somit-dark z-20">
               <iframe
                 className="absolute inset-0 h-full w-full"
-                src="https://www.youtube.com/embed/xFqecEtdGZ0?start=3&end=360"
+                src="https://www.youtube.com/embed/xFqecEtdGZ0?start=3&end=400"
                 title="SoMIT Lab Field Demonstration"
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                 allowFullScreen

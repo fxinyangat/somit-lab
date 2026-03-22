@@ -42,7 +42,7 @@ export function HomePage() {
             transition={{ duration: 1, delay: 0.2, ease: "easeOut" }}
             className="mt-8 text-xl sm:text-2xl text-white/90 max-w-3xl mx-auto drop-shadow-md font-serif"
           >
-            Technology is opening new horizons for agriculture. Real-time soil insights allow farmers to produce more food with fewer resources, nourishing communities sustainably.
+            Technology is opening new horizons for agriculture. Real-time soil insights allow farmers to produce more food with fewer resources, sustainably nourishing communities globally.
           </motion.p>
         </div>
       </section>

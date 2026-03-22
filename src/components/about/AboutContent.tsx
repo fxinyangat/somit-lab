@@ -59,14 +59,14 @@ const team = [
     twitter: "#",
     image: "/images/team/claire.jpeg",
   },
-  {
-    name: "Inyangati",
-    role: "CEO's PA",
-    bio: "Attending to the CEO's needs, emotions and wellbeing for the smooth running of the company.",
-    linkedin: "#",
-    twitter: "#",
-    image: "/images/team/xavier.jpg",
-  },
+  // {
+  //   name: "Inyangati",
+  //   role: "CEO's PA",
+  //   bio: "Attending to the CEO's needs, emotions and wellbeing for the smooth running of the company.",
+  //   linkedin: "#",
+  //   twitter: "#",
+  //   image: "/images/team/xavier.jpg",
+  // },
 ];
 
 const milestones = [

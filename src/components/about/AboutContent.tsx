@@ -36,12 +36,12 @@ const values = [
 
 const team = [
   {
-    name: "Jean Amukwatse",
-    role: "Founder",
+    name: "Jean (Sheshe) Amukwatse",
+    role: "Founder & CEO",
     bio: "Leading product vision, partnerships, and the path from prototype to fields across Uganda.",
     linkedin: "#",
     twitter: "#",
-    image: "/images/team/jean.jpg",
+    image: "/images/team/jamukwat.png",
   },
   {
     name: "Prof. Jude Lubega",
@@ -58,6 +58,14 @@ const team = [
     linkedin: "#",
     twitter: "#",
     image: "/images/team/claire.jpeg",
+  },
+  {
+    name: "Inyangati",
+    role: "CEO's PA",
+    bio: "Attending to the CEO's needs, emotions and wellbeing for the smooth running of the company.",
+    linkedin: "#",
+    twitter: "#",
+    image: "/images/team/xavier.jpg",
   },
 ];
 

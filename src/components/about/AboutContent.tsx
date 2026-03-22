@@ -36,7 +36,7 @@ const values = [
 
 const team = [
   {
-    name: "Jean (Sheshe) Amukwatse",
+    name: "Jean Amukwatse",
     role: "Founder",
     bio: "Leading product vision, partnerships, and the path from prototype to fields across Uganda.",
     linkedin: "#",
@@ -91,7 +91,7 @@ export function AboutContent() {
                 </p>
               </motion.div>
             </div>
-            
+
             {/* Striking Image Column */}
             <motion.div {...fadeUp} className="relative h-[500px] lg:h-[700px] w-full rounded-sm overflow-hidden shadow-2xl border-4 border-somit-bg">
               <Image

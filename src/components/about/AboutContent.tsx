@@ -36,21 +36,14 @@ const values = [
 
 const team = [
   {
-    name: "Jean (Sheshe) Amukwatse",
+    name: "Jean Amukwatse",
     role: "Founder & CEO",
     bio: "Leading product vision, partnerships, and the path from prototype to fields across Uganda.",
     linkedin: "#",
     twitter: "#",
     image: "/images/team/jamukwat.png",
   },
-  {
-    name: "Prof. Jude Lubega",
-    role: "Tech Advisor",
-    bio: "Guiding technical architecture, research translation, and responsible AI deployment.",
-    linkedin: "#",
-    twitter: "#",
-    image: "/images/team/jude.jpeg",
-  },
+
   {
     name: "Claire Babirye",
     role: "AI / ML Engineer",

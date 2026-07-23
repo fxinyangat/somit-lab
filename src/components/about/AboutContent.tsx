@@ -46,7 +46,7 @@ const team = [
 
   {
     name: "Claire Babirye",
-    role: "AI / ML Engineer",
+    role: "Co-Founder",
     bio: "Building models that stay accurate at the edge — with datasets grounded in local agronomy.",
     linkedin: "#",
     twitter: "#",

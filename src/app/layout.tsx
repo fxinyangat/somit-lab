@@ -21,6 +21,11 @@ export const metadata: Metadata = {
   },
   description:
     "AI-powered soil analysis for Ugandan farmers. Real-time NPK insights, affordable testing, and recommendations that raise yields.",
+  icons: {
+    icon: "/favicon.png",
+    shortcut: "/favicon.png",
+    apple: "/favicon.png",
+  },
 };
 
 export default function RootLayout({

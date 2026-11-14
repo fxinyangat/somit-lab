@@ -43,7 +43,14 @@ const team = [
     twitter: "#",
     image: "/images/team/jamukwat.png",
   },
-
+  {
+    name: "Prof. Jude Lubega",
+    role: "Tech Advisor",
+    bio: "Guiding technical architecture, research translation, and responsible AI deployment.",
+    linkedin: "#",
+    twitter: "#",
+    image: "/images/team/jude.jpeg",
+  },
   {
     name: "Claire Babirye",
     role: "Co-Founder",
@@ -51,6 +58,14 @@ const team = [
     linkedin: "#",
     twitter: "#",
     image: "/images/team/claire.jpeg",
+  },
+  {
+    name: "Xavier Inyangat",
+    role: "Technical Technocrat",
+    bio: "Highly talented AI Engineer, supporting the build of SoMIT lab backend systems and provide technical advisory.",
+    linkedin: "#",
+    twitter: "#",
+    image: "/images/team/xavier1.jpg",
   },
   // {
   //   name: "Inyangati",

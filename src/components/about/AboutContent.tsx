@@ -61,7 +61,7 @@ const team = [
   },
   {
     name: "Xavier Inyangat",
-    role: "Technical Technocrat",
+    role: "Member of Technical Staff",
     bio: "Highly talented AI Engineer, supporting the build of SoMIT lab backend systems and provide technical advisory.",
     linkedin: "#",
     twitter: "#",
